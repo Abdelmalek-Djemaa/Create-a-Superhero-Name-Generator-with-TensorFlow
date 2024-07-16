@@ -7,8 +7,7 @@
 ## Overview
 This project creates a neural network trained on a dataset of over 9000 superhero and supervillain names to generate similar names. Using a character-level language model, the network predicts the next character in a given sequence to generate new names.
 
-## Learning Objectives
-- Understanding character-level language models for text generation
+## Objectives
 - Implementing a neural network for sequence prediction
 - Training the model on a custom dataset
 - Generating new text based on a trained model
